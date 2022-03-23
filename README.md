@@ -17,7 +17,7 @@
     <li><a href="https://leonardoclerton.github.io/html-css/exercicios/ex012/">Executar o exercício 012</a></li>
     <li><a href="https://leonardoclerton.github.io/html-css/exercicios/ex013/">Executar o exercício 013</a></li>
     <li><a href="https://leonardoclerton.github.io/html-css/exercicios/ex014/">Executar o exercício 014</a></li>
-    <li><a href="https://leonardoclerton.github.io/html-css/exercicios/ex015/">Executar o exercício 015</a></li>
+    <li><a href="https://leonardoclerton.github.io/html-css/exercicios/ex015/index.html">Executar o exercício 015</a></li>
     <li><a href="https://leonardoclerton.github.io/html-css/exercicios/ex016/">Executar o exercício 016</a></li>
     <li><a href="https://leonardoclerton.github.io/html-css/exercicios/ex017/">Executar o exercício 017</a></li>
     <li><a href="https://leonardoclerton.github.io/html-css/exercicios/ex018/">Executar o exercício 018</a></li>
